@@ -511,7 +511,7 @@ export default function SpecialistCommunity() {
                       onClick={() => handleAddReply(p.id)}
                       style={{ backgroundColor: '#064e3b', color: '#fff', border: 0, borderRadius: '6px', padding: '6px 12px', fontSize: '12px', fontWeight: '700', cursor: 'pointer' }}
                     >
-                      Reply
+                      Reply.
                     </button>
                   </div>
                 </div>
